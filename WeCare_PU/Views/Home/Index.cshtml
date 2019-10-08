@@ -1,0 +1,61 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@*
+    @section left {
+        <li><a href="/Home/InscriptionCitoyen/2">S'inscrire</a></li>
+        <li><a href="right-sidebar.html">Login</a></li>
+    }
+*@
+@section MySection
+    {          <div id="header" class="skel-panels-fixed">
+        <div id="logo">
+            <h1>WeCare</h1>
+        </div>
+        <nav id="nav">
+            <ul>
+                <li><a asp-area="" asp-controller="Citoyens" asp-action="InscriptionCitoyen">S'inscrire</a></li>
+                <li><a href="right-sidebar.html">Login</a></li>
+            </ul>
+        </nav>
+    </div>}
+
+
+<div id="main">
+    <div class="container">
+        <div class="row">
+
+            <!-- Content -->
+            <div class="6u">
+                <section>
+                    <ul class="style">
+                        <li class="fa fa-wrench">
+                            <h3>Theb t3awen la3bed wala ta3ref chkoun yheb y3awen</h3>
+                            <span>Blaa blaa blaaaa.</span>
+                        </li>
+                        <li class="fa fa-leaf">
+                            <h3>theeb tetale3 3alaa les activité ta3 les associations </h3>
+                            <span>blaa bla bla bla.</span>
+                        </li>
+                    </ul>
+                </section>
+            </div>
+            <div class="6u">
+                <section>
+                    <ul class="style">
+                        <li class="fa fa-cogs">
+                            <h3>theeb tchereek f les evenements l5ayreyaa w temchi ta7dher f hajet haka</h3>
+                            <span>blaa bla bla blaa.</span>
+                        </li>
+                        <li class="fa fa-road">
+                            <h3>ta3mel don f collecte teba3 une association mou3ayna</h3>
+                            <span>blaa bla blaaaaa.</span>
+                        </li>
+                    </ul>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,12 @@
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\bin\Debug\netcoreapp2.0\WeCare_PU.deps.json
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\bin\Debug\netcoreapp2.0\WeCare_PU.runtimeconfig.json
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\bin\Debug\netcoreapp2.0\WeCare_PU.runtimeconfig.dev.json
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\bin\Debug\netcoreapp2.0\WeCare_PU.dll
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\bin\Debug\netcoreapp2.0\WeCare_PU.pdb
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\obj\Debug\netcoreapp2.0\WeCare_PU.csprojResolveAssemblyReference.cache
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\obj\Debug\netcoreapp2.0\WeCare_PU.csproj.CoreCompileInputs.cache
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\obj\Debug\netcoreapp2.0\WeCare_PU.AssemblyInfoInputs.cache
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\obj\Debug\netcoreapp2.0\WeCare_PU.AssemblyInfo.cs
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\obj\Debug\netcoreapp2.0\WeCare_PU.dll
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\obj\Debug\netcoreapp2.0\WeCare_PU.pdb
+D:\GL3\PUetAA\WeCare_PU\WeCare_PU\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

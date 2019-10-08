@@ -1,0 +1,14 @@
+D:\GL3\PUetAA\WeCare_PU\Console1\bin\Debug\netcoreapp2.0\Console1.deps.json
+D:\GL3\PUetAA\WeCare_PU\Console1\bin\Debug\netcoreapp2.0\Console1.runtimeconfig.json
+D:\GL3\PUetAA\WeCare_PU\Console1\bin\Debug\netcoreapp2.0\Console1.runtimeconfig.dev.json
+D:\GL3\PUetAA\WeCare_PU\Console1\bin\Debug\netcoreapp2.0\Console1.dll
+D:\GL3\PUetAA\WeCare_PU\Console1\bin\Debug\netcoreapp2.0\Console1.pdb
+D:\GL3\PUetAA\WeCare_PU\Console1\bin\Debug\netcoreapp2.0\WeCare_PU.dll
+D:\GL3\PUetAA\WeCare_PU\Console1\bin\Debug\netcoreapp2.0\WeCare_PU.pdb
+D:\GL3\PUetAA\WeCare_PU\Console1\obj\Debug\netcoreapp2.0\Console1.csprojResolveAssemblyReference.cache
+D:\GL3\PUetAA\WeCare_PU\Console1\obj\Debug\netcoreapp2.0\Console1.csproj.CoreCompileInputs.cache
+D:\GL3\PUetAA\WeCare_PU\Console1\obj\Debug\netcoreapp2.0\Console1.AssemblyInfoInputs.cache
+D:\GL3\PUetAA\WeCare_PU\Console1\obj\Debug\netcoreapp2.0\Console1.AssemblyInfo.cs
+D:\GL3\PUetAA\WeCare_PU\Console1\obj\Debug\netcoreapp2.0\Console1.csproj.CopyComplete
+D:\GL3\PUetAA\WeCare_PU\Console1\obj\Debug\netcoreapp2.0\Console1.dll
+D:\GL3\PUetAA\WeCare_PU\Console1\obj\Debug\netcoreapp2.0\Console1.pdb

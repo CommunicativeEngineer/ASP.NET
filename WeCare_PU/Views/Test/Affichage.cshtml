@@ -1,0 +1,47 @@
+﻿@model WeCare_PU.Entities.Citoyen
+@{
+    ViewBag.title = "Ajout d'un citoyen";
+}
+
+<div class="container spacer">
+    <form method="post" asp-action="Create">
+        <div class="form-group">
+            @Html.LabelFor(p => p.Login, new { @class = "control-label" })
+            @Html.TextBoxFor(p => p.Login, new { @class = "form-control" })
+            @Html.ValidationMessageFor(p => p.Login, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(p => p.Nom, new { @class = "control-label" })
+            @Html.TextBoxFor(p => p.Nom, new { @class = "form-control" })
+            @Html.ValidationMessageFor(p => p.Nom, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(p => p.Password, new { @class = "control-label" })
+            @Html.TextBoxFor(p => p.Password, new { @class = "form-control" })
+            @Html.ValidationMessageFor(p => p.Password, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(p => p.Mail, new { @class = "control-label" })
+            @Html.TextBoxFor(p => p.Mail, new { @class = "form-control" })
+            @Html.ValidationMessageFor(p => p.Mail, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(p => p.Adresse, new { @class = "control-label" })
+            @Html.TextBoxFor(p => p.Adresse, new { @class = "form-control" })
+            @Html.ValidationMessageFor(p => p.Adresse, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(p => p.Prenom, new { @class = "control-label" })
+            @Html.TextBoxFor(p => p.Prenom, new { @class = "form-control" })
+            @Html.ValidationMessageFor(p => p.Prenom, "", new { @class = "text-danger" })
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(p => p.Telephone, new { @class = "control-label" })
+            @Html.TextBoxFor(p => p.Telephone, new { @class = "form-control" })
+            @Html.ValidationMessageFor(p => p.Telephone, "", new { @class = "text-danger" })
+        </div>
+        <div>
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </form>
+</div>
